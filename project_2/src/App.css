@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 72px;
+
+  
+}
+ .logo{
+  width: 65px;
+  height: 65px;
+ }
+
+ ul{
+  list-style: none;
+  display: flex;
+  gap: 40px;
+   margin-left: 900px; 
+ }
+ a{
+  color: black;
+  text-decoration: none;
+ }
+.contct-header{
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.contact-data-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  height: 468px;
+  gap: 100px;
+}
+.contact-img{
+  height: 468px;
+}
+.form-data{
+
+}
